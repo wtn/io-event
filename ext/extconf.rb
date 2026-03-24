@@ -2,7 +2,7 @@
 # frozen_string_literal: true
 
 # Released under the MIT License.
-# Copyright, 2021-2025, by Samuel Williams.
+# Copyright, 2021-2026, by Samuel Williams.
 # Copyright, 2023, by Math Ieu.
 # Copyright, 2025, by Stanislav (Stas) Katkov.
 # Copyright, 2026, by Stan Hu.
